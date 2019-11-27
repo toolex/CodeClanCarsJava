@@ -21,4 +21,7 @@ public class CarDealership {
     }
 
 
+    public int howManyCars() {
+        return cars.size();
+    }
 }
