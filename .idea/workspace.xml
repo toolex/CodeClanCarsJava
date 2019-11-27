@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aae0b125-c039-467d-971e-e777f48e2217" name="Default Changelist" comment="" />
+    <list default="true" id="aae0b125-c039-467d-971e-e777f48e2217" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/behaviours/IBanned.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +29,10 @@
     </option>
   </component>
   <component name="ProjectId" id="1UCMC7x6k05ujIdWkCw5tGYEjyk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -66,5 +72,16 @@
       <updated>1574855993234</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

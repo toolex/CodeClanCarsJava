@@ -1,10 +1,11 @@
 package people;
 
+import behaviours.IBanned;
 import dealership.Car;
 
 import java.util.ArrayList;
 
-public class Customer extends Person {
+public class Customer extends Person implements IBanned {
 
     private ArrayList<Car> customersCars;
 
